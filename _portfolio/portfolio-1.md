@@ -1,6 +1,6 @@
 ---
 title: "Sketch (digital): Nietzsche"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/nietzsche.pdf'>"
+excerpt: "digital art <br/><img src='/images/nietzsche.png'>"
 collection: portfolio
 ---
 
