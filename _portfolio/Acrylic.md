@@ -1,7 +1,7 @@
 ---
 title: "My acrylic drawing portfolio"
-excerpt: "digital art <br/><img src='/images/forestgirl.jpg'>"
+excerpt: "Acrylic art <br/><img src='/images/forestgirl.jpg'>"
 collection: portfolio
 ---
 
-This is acrylic painting I did in 2020. 
+This is a acrylic painting I did in 2020. 
