@@ -8,7 +8,7 @@ paperurl: 'https://github.com/dlkency/dlkency.github.io/blob/master/files/Master
 citation: 'Dan, Li. (2017). &quot; M.S. Thesis: Kinetic study of functionalized HABIs and their applications.&quot; <i>Journal 1</i>. 1(1).
 
 ---
-title:"Master Thesis"
+title: "Master Thesis"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 ---
