@@ -6,6 +6,7 @@ excerpt: 'This thesis is a excerpt of my previous work as a polymer material res
 date: 2017-04-01
 paperurl: 'https://github.com/dlkency/dlkency.github.io/blob/master/files/Master's%20thesis.docx'
 citation: 'Dan, Li. (2017). &quot; M.S. Thesis: Kinetic study of functionalized HABIs and their applications.&quot; <i>Journal 1</i>. 1(1).
+---
 
 ---
 title: "Master Thesis"
