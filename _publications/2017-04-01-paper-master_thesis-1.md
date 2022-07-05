@@ -1,10 +1,10 @@
 ---
-title: "Master's Thesis"
+title: "Master Thesis"
 collection: publications
 permalink: /publication/2017-04-01-paper-master_thesis-1
 excerpt: 'This thesis is a excerpt of my previous work as a polymer material researcher.'
 date: 2017-04-01
-venue: 'Master's Thesis at University of Michigan'
+venue: 'Master Thesis at University of Michigan'
 paperurl: 'https://dlkency.github.io/files/Master_thesis.pdf'
 citation: 'Dan, Li. (2017). &quot;M.S. Thesis: Kinetic study of functionalized HABIs and their applications&quot; <i>Master Thesis</i>.'
 ---
