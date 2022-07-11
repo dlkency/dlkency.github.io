@@ -1,6 +1,6 @@
 ---
 title: "Lamp drawing"
-excerpt: "Lamp art <br/><img src='/images/lamp.JPG'>"
+excerpt: "Lamp art <br/><img src='/images/lamp.JPG' width = 300>"
 collection: portfolio
 ---
 
