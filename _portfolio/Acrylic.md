@@ -1,7 +1,29 @@
 ---
-title: "My acrylic drawing portfolio"
-excerpt: "Acrylic art <br/><img src='/images/forestgirl.jpg'>"
+title: "Acrylic paintings"
+excerpt: "Acrylic landscape 
+<table>
+  <tr>
+    <td>Watercolor NYC lighting</td>
+     <td>Kinzua National Park</td>
+     </tr>
+  <tr>
+    <td><img src='/images/NYC.JPG' width=425></td>
+    <td><img src='/images/kinzuapark.jpg' width=325></td>
+  </tr>
+ </table>"
 collection: portfolio
 ---
 
-This is a acrylic painting I did in 2020. 
+
+Acrylic landscape paintings 2018. 
+
+<table>
+  <tr>
+    <td>Watercolor NYC lighting</td>
+     <td>Kinzua National Park</td>
+     </tr>
+  <tr>
+    <td><img src='/images/NYC.JPG' width=425></td>
+    <td><img src='/images/kinzuapark.jpg' width=325></td>
+  </tr>
+ </table>
