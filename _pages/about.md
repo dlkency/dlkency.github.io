@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Civil & Environmental Engineering, [Center for Digital Asset Finance](https://www.difin.io/) at the University of Michigan, advised by [Dr. Peter Adriaens](https://en.wikipedia.org/wiki/Peter_Adriaens). I am interested in building models and testing the impact of climate changes, ESG factors and green bond issues on bond pricing. My research is at the intersection of causal inference, machine learning, and civil & environmental engineering.   
+I am a PhD candidate in the Civil & Environmental Engineering, [Center for Digital Asset Finance](https://www.difin.io/) at the University of Michigan. My advisor is [Dr. Peter Adriaens](https://cee.engin.umich.edu/people/adriaens-peter/). I am passionate about building models and figuring out the impacts of climate change, ESG factors on security pricing (e.g., green bonds). My research is at the intersection of causal inference, machine learning, and civil & environmental engineering.   
 
-Before starting PhD, I worked for a few years (2017-2020) in the financial industry in the great New York area. Those experiece has shaped my understanding of finance, and the interconnectedness between enginnering and economy. I believe a bridge between the two different world is needed to empower emerging research that solves the climate issues.    
+Prior to starting my PhD, I worked in the financial industry in the Greater New York area. Those experiece has shaped my understanding of finance, and the interconnectedness between enginnering and economics. I believe a bridge between the two different worlds of finance and the environment is needed to empower research that solves the climate issues.    
 
-Great gratitude to my previous fellows druing my Master's and undergrad as a polymer material researcher. Without the hands-on experience in chemical labs, I would not have a deep love for the environment.   
+My experience working in chemical labs as a polymer material engineer and researcher during my Master's and undergraduate studies has given me the technical skillset to analyze the environmental around us. The insights and knowledged gained as an engineer has heightened my urgency to find innovated approaches to tackling climate change and environmental issues.    
 
 
 
