@@ -1,6 +1,6 @@
 ---
-title: "Acrylic paintings"
-excerpt: "Acrylic landscape 
+title: "Acrylic landscape paintings"
+excerpt: "
 <table>
   <tr>
     <td>Watercolor NYC lighting</td>
