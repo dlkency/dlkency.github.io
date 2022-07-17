@@ -5,3 +5,4 @@ collection: portfolio
 ---
 
 This is digital sketch of Nietzsche portrait. 
+<br/><img src='/images/nietzsche.png'>
