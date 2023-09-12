@@ -3,8 +3,8 @@ title: "Impact of ESG Performance and Disclosure on Premiums in the Corporate Bo
 collection: publications in review 
 permalink: /publication/2022-08-01-paper-title-number-4
 excerpt: 'This paper is in review by the Journal of Sustainable Finance and Investment.'
-date: 2023
-venue: ' '
+date: 2023-09-30
+venue: 'Under review'
 citation: 'Dan, Li, Adriaens, Peter. (2023). &quot;Impact of ESG Performance and Disclosure on Premiums in the Corporate Bond Market: Evidence from Propensity Score Matching.&quot; <i>Journal of Sustainable Finance and Investment (In review)</i>.'
 ---
 This paper is about the impact of ESG ratings and disclosure on corporate bond pricing based on propensity score matching method. 
