@@ -1,10 +1,10 @@
 ---
 layout: page
 title: 
-description: with background image
+description: Watercolor, acrylic and digital arts
 img: assets/img/painting/ocean.jpg
 importance: 1
-category: work
+category: fun
 related_publications: true
 ---
 
@@ -27,7 +27,7 @@ Watercolor and acrylic paints have always been among my favorite mediums since I
         {% include figure.liquid loading="eager" path="assets/img/painting/watercolor_peony.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-On the left, residential buildings in Hoboken, NJ. In the center, yxxx. On the right, a painting of peonies from the Arboretum in Ann Arbor.
+On the left, residential buildings in Hoboken, NJ. In the center, a campus view at Stevens Institute of Technology. On the right, a painting of peonies from the Arboretum in Ann Arbor.
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/painting/nietzsche.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -41,7 +41,7 @@ On the left, residential buildings in Hoboken, NJ. In the center, yxxx. On the r
     On the right it is a bridge at the Kinzua Bridge State Park. The skywalk has a walkway with a set of railroad tracks which is astonishing. 
 </div>
 
-I'm a huge fan of the Metropolitan Museum, so I often spend entire days there or at the American Museum of Natural History in New York. I bring my sketchbook or digital painting tablet to capture the inspiration around me. Below are some of the sketches I've completed during these visits.
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/painting/skull.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -50,7 +50,7 @@ I'm a huge fan of the Metropolitan Museum, so I often spend entire days there or
         {% include figure.liquid path="assets/img/painting/Trex.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
+I'm a huge fan of the Metropolitan Museum, so I often spend entire days there or at the American Museum of Natural History in New York. I bring my sketchbook or digital painting tablet to capture the inspiration around me. Above are some of the sketches I've completed during these visits.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -61,7 +61,7 @@ I'm a huge fan of the Metropolitan Museum, so I often spend entire days there or
     </div>
 </div>
 <div class="caption">
-    These are some of the art pieces I painted during the [Art Battle](https://artbattle.com/) in NYC, which is a 20 mins live competitive painintng. I partinicpated in one of the Art Battle in NYC.
+    These are some of the art pieces I painted during the <a href="https://artbattle.com/">Art Battle</a>  in NYC. Art Battle is a fast-paced, 20-minute live competitive painting event where artists are challenged to create their art work on stage while being surrounded by audience to bid on the paintings.  I had the exciting opportunity to participate in two of these competitions in NYC in 2019/2020. It was an inspiring experience that pushed the boundaries of my creative expression. These paintings are double-sided, so you can view them from different angles, either horizontally or parallel, to see different elements. 
 </div>
 
 
