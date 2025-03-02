@@ -179,7 +179,7 @@ exclude:
   - _pages/profiles.md
   - _pages/repositories.md
   - _posts/
-  - _projects/?_project.md
+  # - _projects/?_project.md
   - assets/jupyter/blog.ipynb
   - people
   - profiles.md
