@@ -2,7 +2,7 @@
 layout: page
 title: 
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/painting/ocean.jpg
 importance: 1
 category: work
 related_publications: true
@@ -10,10 +10,10 @@ related_publications: true
 
 Watercolor and acrylic paints have always been among my favorite mediums since I was a child. The unique feel of the brush and the way the colors diffuse across the textured paper create a distinct experience with each painting, giving it a second life and creating a wonderland for me to explore through art. Most of these pieces were painted during the time of COVID when I found myself at home with more time to indulge in my creativity. Moving frequently in recent years has made it difficult to keep my original works, so I've shared them here as digital copies, even if the physical pieces may be lost.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
 
     ---
-    hahahha 
+    In Michelangelo's letter to his father after completing the Sistine Chapel ceiling. He wrote, "I have finished the chapel I have been painting: the Pope is very well satisfied. Other things have not turned out for me as I'd hoped. For this, I blame the times, which are very unfavorable to our art." What Michelangelo called an "unfavorable time" is now referred to as the High Renaissance!
     ---
 
 <div class="row">
@@ -27,21 +27,32 @@ To give your project a background in the portfolio page, just add the img tag to
         {% include figure.liquid loading="eager" path="assets/img/painting/watercolor_peony.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, xx. Middle, xxt. Right, in another hipster photoshoot, xxs.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+On the left, residential buildings in Hoboken, NJ. In the center, yxxx. On the right, a painting of peonies from the Arboretum in Ann Arbor.
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/painting/nietzsche.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/painting/kinzuapark.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    This digital artwork of Nietzsche on the left was created as part of my exploration into whether digital mediums can be more effective for generating art compared to traditional tools.
+    On the right it is a bridge at the Kinzua Bridge State Park. The skywalk has a walkway with a set of railroad tracks which is astonishing. 
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+I'm a huge fan of the Metropolitan Museum, so I often spend entire days there or at the American Museum of Natural History in New York. I bring my sketchbook or digital painting tablet to capture the inspiration around me. Below are some of the sketches I've completed during these visits.
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/painting/skull.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/painting/Trex.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   
+</div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -52,37 +63,11 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    These are some of the art pieces I painted during the [Art Battle](https://artbattle.com/) in NYC, which is a 20 mins live competitive painintng. I partinicpated in one of the Art Battle in NYC.
 </div>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
 {% endraw %}
