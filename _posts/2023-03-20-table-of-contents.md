@@ -11,24 +11,12 @@ toc:
   beginning: true
 ---
 
-This post shows how to add a table of contents in the beginning of the post.
 
-## Adding a Table of Contents
-
-To add a table of contents to a post, simply add
-
-```yml
-toc:
-  beginning: true
-```
-
-
-### Example of Sub-Heading 1
 
 Since the dawn of human civilization, we have competed for resources, and those who succeed in securing them are able to grow their communities and enhance their competitive edge. Among these resources, water is not only essential for human survival but also crucial for economic, agricultural, and technological development. As the famous saying goes, "Whoever controls the water, controls the West." In this post, I want to discuss the issue of water scarcity and explore whether financial solutions can effectively address this challenge.
 
 
-### Institutional Complexity of California's Water System
+## Institutional Complexity of California's Water System
 
 Navigating California's water system is like solving a unique puzzle. The state's water rights are governed by a dual system: riparian and appropriative rights. Riparian rights let those with land next to water use it, while appropriative rights follow a "first come, first served" rule, regardless of where your land is.   
 
@@ -40,6 +28,18 @@ Many people might not realize that California boasts the largest agricultural ou
 
 California's water resources are subject to periodic droughts and floods, making effective management a constant challenge. For example, in 2023, Tulare Lake, a <a href="https://www.theguardian.com/us-news/2024/mar/24/california-tulare-lake-shrinking">"zombie lake"</a> reemerged after disappearing 130 years ago due to one of the wettest years on record. The current infrastructure struggled to handle the excess water, leading to significant flooding in the Tulare Basin's  <a href="https://fresnoland.org/2023/03/27/flooding-out-other-farmers-was-premeditated-by-the-powerful-j-g-boswell-company-one-farmer-asserts/#:~:text=What's%20at%20stake%3F-,Flooding%20over%20miles%20of%20farmland%20north%20and%20east%20of%20the,lake%20first%20which%20would%20have">farmlands</a>, where many high-value crops are cultivated. This highlights the ongoing struggle to balance water supply with agricultural demands in California.
 
-### Example of Sub-Heading 2
+## Navigating the Ups and Downs of Cash Flow in California's Water World
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+For water users like irrigation districts and major metropolitan areas, the rollercoaster ride of water supply can mean big headaches: reduced revenue and skyrocketing costs. When drought hits and water is scarce, the state simply allocates less to contractors. This includes major urban centers like Los Angeles and agricultural irrigation districts. During these dry years, cities receive less water, and irrigation districts struggle to sell enough water to large-scale farms. They often have to turn to the often expensive spot market to meet demand.
+
+Consider the Nasdaq Veles California Water Price Index  <a href="https://indexes.nasdaqomx.com/Index/History/NQH2O">(NQH2O)</a> -an index for tracking water costs in the state. During the exceptionally dry year of 2022, prices soared to $1,200 per acre-foot, six times higher than in wetter years! You can imagine the financial strain on cities and farms. Beyond just higher bills, these pressures can result in staff layoffs, reduced spending on critical infrastructure maintenance, and potentially lead to credit rating downgrades and increased borrowing costs when districts and cities issue debt.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/NQH2O.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Historical CA water prices (source: Nasdaq Veles California Water Price Index).
+</div>
+
+So, how do they manage this financial tightrope? Stability is key, and some solutions include using financial derivatives like futures and options to lock in prices or purchasing insurance to guard against extreme losses. Of course, these strategies depend heavily on accurately predicting hydrologic conditions and understanding the financial implications - a topic I'm diving into in my upcoming papers. Stay tuned!
