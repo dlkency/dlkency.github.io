@@ -175,7 +175,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
-  - _pages/blog.md
+  #- _pages/blog.md
   - _pages/profiles.md
   - _pages/repositories.md
   - _posts/
@@ -373,6 +373,7 @@ imagemagick:
     - ".png"
     - ".tiff"
     - ".gif"
+    
   output_formats:
     webp: "-quality 85"
 
