@@ -178,12 +178,12 @@ exclude:
   #- _pages/blog.md
   - _pages/profiles.md
   - _pages/repositories.md
-  - _posts/
+  #- _posts/
   # - _projects/?_project.md
-  - assets/jupyter/blog.ipynb
+  #- assets/jupyter/blog.ipynb
   - people
   - profiles.md
-  - _pages/blog.md
+ # - _pages/blog.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
