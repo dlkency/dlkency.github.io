@@ -28,10 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currenty a postdoc at the [Institute for Risk Management and Insurance Innovation (IRMII)](https://irmii.unc.edu/people/) at the University of North Carolina at Chapel Hill. My work involves tackling water resource challenges using approaches that blend engineering and economic principles. I'm particularly focused on assessing and managing environmental risks (e.g. drought, flood, wildfire), and translating them into financial risk mitigation tools (e.g. derivates, parametric insurance).
+I am currenty a postdoc at the [Institute for Risk Management and Insurance Innovation (IRMII)](https://irmii.unc.edu/people/) at the University of North Carolina at Chapel Hill, working with [Dr. Greg Characklis](https://sph.unc.edu/adv_profile/gregory-characklis-phd/). My work involves tackling water resource challenges using approaches that blend engineering and economic principles. I'm particularly focused on assessing and managing environmental risks (e.g. drought, flood, wildfire), and translating them into financial risk mitigation tools (e.g. derivatives, parametric insurance).
 
 Piror to this, I received my PhD from the Civil & Environmental Engineering, [Center for Digital Asset Finance](https://www.difin.io/) at the University of Michigan, where I worked with [Dr. Peter Adriaens](https://cee.engin.umich.edu/people/adriaens-peter/). My doctoral research explores the effects of water risk on the municipal bond market and ESG factors on security pricing, such as green bonds. I enjoy combining causal inference, machine learning, and civil & environmental engineering to solve problems. 
 
-Before my PhD, I worked in the financial industry in the Greater New York area. I also have a background in polymer materials research, which I gained during my Master's and undergraduate studies. This experience helped shape my understanding of finance and the interplay between engineering and economics. I believe that connecting these fields is key to addressing environmental challenges.
+Before pursuing my PhD, I had the opportunity to work in the dynamic financial industry of the Greater New York area. My background in polymer materials research, developed during my Master's and undergraduate studies, deeply enriched my perspective. This diverse experience ignited my passion for understanding the intricate interplay between engineering and economics. I am convinced that bridging these fields is essential for tackling today's pressing environmental challenges.
 
 

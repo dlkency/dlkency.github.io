@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Water Issue? A financial solution 
+title: Water Issues: A Financial Perspective 
 date: 2024-09-20 11:59:00-0400
 description: an example of a blog post with table of contents
-tags: formatting toc
-categories: sample-posts
+# tags: formatting toc
+# categories: sample-posts
 thumbnail: assets/img/water_crisis.png
-giscus_comments: true
+giscus_comments: false
 related_posts: false
 toc:
   beginning: true
