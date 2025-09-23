@@ -18,18 +18,20 @@ toc:
 
 I’ve pulled these thoughts together to help make sense of how flood, wildfire, hurricane and other natural-hazard insurance actually work in the U.S. — why prices are changing, who sets the rules, and what practical options exist if you live in a risky place.
 ## Big picture: why insurance looks different across states
-Insurance in the U.S. is mostly a state-regulated business. That means each state decides how insurers operate, what policy forms are allowed, how and when companies can cancel or non-renew policies, and whether a state will create special “insurer of last resort” programs for homeowners who can’t find private coverage.  
+<div style="background:#fff3b0; padding:10px; border-radius:6px">
+Insurance in the U.S. is mostly a state-regulated business. That means each state decides how insurers operate, what policy forms are allowed, how and when companies can cancel or non-renew policies, and whether a state will create special “insurer of last resort” programs for homeowners who can’t find private coverage.
+</div>
 
 A couple of headline facts that explain recent trends:  
 
 •	Average property insurance premiums have jumped sharply since 2020 (roughly a 30%+ rise on average), with the biggest increases concentrated where hazard exposure is highest — coastal hurricane zones and wildfire-prone areas.   
-•	One of the main drivers is higher reinsurance costs: insurers buy reinsurance to protect themselves from a single catastrophe wiping out their balance sheet, and when reinsurance gets more expensive, primary insurers pass some of that cost onto homeowners (see <a href="https://www.nber.org/papers/w32579">(Keys & Mulder)</a>, Property Insurance and Disaster Risk, NBER WP 32579).
+•	One of the main drivers is **higher reinsurance costs**: insurers buy reinsurance to protect themselves from a single catastrophe wiping out their balance sheet, and when reinsurance gets more expensive, primary insurers pass some of that cost onto homeowners (see <a href="https://www.nber.org/papers/w32579">(Keys & Mulder)</a>, Property Insurance and Disaster Risk, NBER WP 32579).
 
 ## Federal vs state roles 
-•	Flood insurance is primarily federal (FEMA’s National Flood Insurance Program, NFIP), and flood coverage is not included in a standard homeowners policy. If you’re in a FEMA high-risk zone, lenders typically require NFIP or an accepted private alternative.   
+•	Flood insurance is primarily federal (FEMA’s National Flood Insurance Program, NFIP), and **flood coverage is not included in a standard homeowners policy**. If you’re in a FEMA high-risk zone, lenders typically require NFIP or an accepted private alternative.   
 •	Other perils (wind, fire, hail, earthquake) are mostly handled by private insurers but regulated by states. States can also create residual-market pools (see examples below). 
 ### How that looks on the ground 
-•	NFIP + private flood market (nationwide): NFIP remains the baseline for mortgage-required flood protection, but the private flood market has been growing as an alternative or complement to NFIP.   
+•	NFIP + private flood market (nationwide): **NFIP remains the baseline for mortgage-required flood protection, but the private flood market has been growing as an alternative or complement to NFIP**.   
 •	Florida — Citizens Property Insurance: an insurer of last resort that often takes in homeowners who can’t find private hurricane/wind/homeowners coverage.   
 •	Texas — TWIA: the Texas Windstorm Insurance Association provides wind/hail coverage for designated coastal counties where the private market withdraws.   
 •	California — FAIR Plan: a pooled “last-resort” program that offers basic fire coverage for properties private carriers won’t insure (often wildfire-exposed homes).   
@@ -73,4 +75,7 @@ How the pieces fit together
 </div>
 <div class="caption">
    Rising Home Insurance Premiums (source: NBER working paper 32579 / CoreLogic).
+</div>
+<div style="background:#fff3b0; padding:10px; border-radius:6px">
+Insurance markets have tightened sharply in recent years: inflation-adjusted homeowner premiums rose roughly 20% between 2020 and 2023, while catastrophe reinsurance costs spiked during the 2023 renewals—raising carriers’ expenses and eroding market capacity. As a result, some insurers are pulling back or non-renewing policies in the riskiest states, leaving many homeowners stuck with residual-market plans (FAIR/Citizens) that are often pricier and more limited. Policymakers and markets are experimenting with tools like parametric insurance and catastrophe bonds to broaden capacity and speed payouts after disasters, but the sector needs real innovation and smarter regulation to keep coverage affordable and resilient.
 </div>
