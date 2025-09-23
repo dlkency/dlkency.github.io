@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Environmental Risk & Financial Innovation # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Dan
 middle_name: 
 last_name: Li
@@ -85,8 +85,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name:  # blog_name will be displayed in your blog page
+blog_description:  Research notes, blog posts, and projects on water, wildfire, and climate risk.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
