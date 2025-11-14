@@ -3,7 +3,7 @@ layout: page
 title: Green Bond and Carbon Emissions
 description: Evaluating the causal impact of municipal green bonds on local carbon emissions using causal machine learning
 img: assets/img/publication_preview/green_bond_cover.png
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---
@@ -14,8 +14,8 @@ related_publications: true
 
 This study evaluates whether U.S. municipal green bonds issued between 2009 and 2019 actually reduce local carbon emissions, and how those effects vary across regions and economic conditions. Using a causal forest model embedded within a double machine learning framework, we estimate how changes in green bond issuance influence county-level CO₂ emissions over time.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/keytrend.png" title="Key trends in green bond issuance and carbon emissions" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -36,8 +36,8 @@ Green bond effectiveness is highly spatially heterogeneous.
 - Counties with more small and medium enterprises, lower payroll per employee, and smaller establishment sizes show the largest reductions.
 - These areas may depend more on public financing to implement carbon-reducing projects.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/feature.png" title="Feature analysis of green bond effectiveness" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

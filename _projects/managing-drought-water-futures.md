@@ -3,7 +3,7 @@ layout: page
 title: Managing Drought with Water Futures
 description: Examining water price risk dynamics and hydrologic forecasting in California's water market
 img: assets/img/NQH2O.png
-importance: 2
+importance: 1
 category: work
 related_publications: false
 ---
@@ -14,8 +14,8 @@ related_publications: false
 
 This paper examines the dynamics of water price risk in California's water market and evaluates the extent to which hydrologic conditions can be used to forecast the Nasdaq Veles California Water Index (NQH2O). Building on detailed simulations of surface water availability, Delta pumping constraints, groundwater banking storage, and regulatory operations, the study develops a modeling framework that links physical water system states to market price formation.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/calfews_map.png" title="California water system modeling area" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
