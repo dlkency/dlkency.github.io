@@ -1,15 +1,15 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: My own lalaland.
+title: research
+permalink: /research/
+description: Research projects and ongoing work on water, wildfire, and climate risk.
 nav: true
-nav_order: 3
-display_categories: [fun, work]
+nav_order: 4
+display_categories: [work]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/research.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -63,3 +63,4 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
