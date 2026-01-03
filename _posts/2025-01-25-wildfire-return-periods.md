@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Why Wildfire Models Must Estimate Return Periods — and Why Most Still Don't
+title: Wildfire Models Are Missing the Risk That Matters Most
 date: 2025-1-25 11:59:00-0400
 description: Why return-period–aware wildfire modeling is essential—and why its absence remains a critical blind spot in current research and practice
-tags: wildfire; risk-modeling; insurance; return periods
+tags: wildfire; risk-modeling; insurance; return-periods
 categories: wildfire; risk-modeling; insurance; natural-hazards
+thumbnail: assets/img/wildfire_risk.png
 giscus_comments: false
 related_posts: false
 toc:
@@ -51,9 +52,7 @@ When fire frequency is combined with economic exposure to estimate annual proper
 
 The world's costliest wildfire events illustrate this clearly:
 
-- The 2017–2018 California fires produced tens of billions in insured losses
-- Recent Los Angeles–area fires generated some of the largest wildfire losses globally, with insured losses estimated by Swiss Re near $40B and total economic losses estimated by AccuWeather at $250–275B
-
+- Recent Los Angeles–area fires generated some of the largest wildfire losses globally, with insured losses estimated by Swiss Re near $40 Billion and total economic losses estimated by AccuWeather at $250–275 Billion.
 These were not the largest fire years by area burned.
 
 They were rare, high-impact events hitting dense, expensive landscapes.
