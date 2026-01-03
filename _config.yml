@@ -268,8 +268,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: ["drought", "water economics", "wildfire", "risk-modeling", "insurance",  "water"] # these tags will be displayed on the front page of your blog
+display_categories: ["drought", "water economics", "wildfire", "risk-modeling", "insurance", "natural-hazards", "water"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
