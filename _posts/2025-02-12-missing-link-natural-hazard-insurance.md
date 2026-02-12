@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Missing Link Between Natural Hazard Risk and Insurance Markets
-date: 2025-02-12 11:59:00-0400
+date: 2025-12-12 11:59:00-0400
 description: Is parametric insurance the missing link between environmental risk and financial protection?
 tags: parametric-insurance; natural-hazards; insurance; catastrophe-bonds; basis-risk
 categories: insurance; natural-hazards; climate-risk
