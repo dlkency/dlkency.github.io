@@ -14,8 +14,6 @@ toc:
 
 Is parametric insurance the missing link between environmental risk and financial protection?
 
-![Traditional vs parametric insurance — cover]({{ "assets/img/parametric.png" | relative_url }})
-*Traditional insurance links loss assessment to payment; parametric insurance links a pre-defined trigger to payment.*
 
 Traditional insurance is indemnity-based. After a wildfire destroys a home, losses are covered through standard homeowner policies. But the process begins only after the damage occurs, and it can be long and complex. While smaller claims may settle within months, full rebuilds after total losses can take years. Policyholders must document damaged items, provide receipts, and navigate detailed verification by claim adjusters. After surviving a traumatic event like a wildfire, the claims process itself can become another burden.
 
@@ -24,7 +22,9 @@ Traditional insurance is indemnity-based. After a wildfire destroys a home, loss
 Instead of reimbursing documented losses, payouts are triggered automatically when a pre-agreed physical indicator is met, such as wind speed, rainfall intensity, or central pressure. Payment depends on the event, not on the assessed damage.
 
 ![Traditional vs parametric insurance]({{ "assets/img/parametric.png" | relative_url }})
-*Left: traditional insurance (loss → payment). Right: parametric insurance (trigger → payment).*
+
+
+*Traditional insurance links loss assessment to payment; parametric insurance links a pre-defined trigger to payment.*
 
 A recent example is Hurricane Melissa, a Category 5 storm that made landfall in Jamaica in late 2025 with wind speeds of 185 mph. The storm met Jamaica's pre-defined parametric trigger under its policy with CCRIF SPC (Caribbean Catastrophe Risk Insurance Facility). As a result, Jamaica received over US$91.9 million within two weeks of landfall.
 
