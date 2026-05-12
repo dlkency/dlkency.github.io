@@ -8,7 +8,7 @@
     "url": "https://dlkency.github.io/cv/",
     "summary": ""
   },
- "work": [
+  "research": [
     {
       "name": " Institute for Risk Management and Insurance Innovation (IRMII) at the University of North Carolina at Chapel Hill",
       "position": "Postdoctoral Associate",
@@ -17,7 +17,9 @@
       "endDate": "present",
       "summary": "",
       "highlights": []
-    },
+    }
+  ],
+  "work": [
     {
       "name": "Goldman Sachs",
       "position": "Treasury Analyst",
