@@ -1,6 +1,6 @@
 ---
 layout: page
-title: portfolio
+title: Artwork
 permalink: /portfolio/
 description: Art portfolio featuring watercolor, acrylic, and digital works.
 nav: true
